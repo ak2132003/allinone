@@ -17,7 +17,7 @@
     'use strict';
 
     // التحقق من وجود تحديث جديد
-    const currentVersion = '2.0';
+    const currentVersion = '4';
     fetch('https://github.com/ak2132003/allinone/raw/refs/heads/main/allscript.user.js')
       .then(response => response.text())
       .then(script => {
