@@ -13,7 +13,21 @@
 
 (function () {
     'use strict';
+(function () {
+    'use strict';
 
+    // التحقق من وجود تحديث جديد
+    const currentVersion = '2.0';
+    fetch('https://github.com/ak2132003/allinone/raw/refs/heads/main/allscript.user.js')
+      .then(response => response.text())
+      .then(script => {
+        const remoteVersion = script.match(/@version\s+([\d.]+)/)[1];
+        if (remoteVersion !== currentVersion) {
+          alert(`يوجد تحديث جديد للسكربت! الإصدار ${remoteVersion} متاح.\nيرجى التحديث للحصول على أحدث الميزات.`);
+        }
+      })
+      .catch(err => console.error('خطأ أثناء التحقق من التحديث:', err));
+})();
     const drName = 'Dr Ahmed Khaled 👑';
 
     // تحميل الخط
