@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Dr Ahmed Khaled 👑 | سكربت موحد عصري
 // @namespace    https://facebook.com/profile.php?id=100018163182596
-// @version      10
+// @version      5
 // @description  واجهة متطورة لفتح الكروت، محطة التفكيك، فتح الروابط 💼 بتصميم ملكي وأنيميشن 👑
 // @author       Dr Ahmed Khaled 👑
 // @match        *.centurygames.com/*
@@ -11,4 +11,378 @@
 // @run-at       document-end
 // ==/UserScript==
 
-function _0x53d0(_0x417d60,_0x2ef223){const _0x4fe8f9=_0x4fe8();return _0x53d0=function(_0x53d07c,_0x2f9523){_0x53d07c=_0x53d07c-0xbe;let _0x5ee4d5=_0x4fe8f9[_0x53d07c];return _0x5ee4d5;},_0x53d0(_0x417d60,_0x2ef223);}(function(_0x68acb4,_0x515c04){const _0x18dcf9=_0x53d0,_0x20423f=_0x68acb4();while(!![]){try{const _0x4243a0=parseInt(_0x18dcf9(0xd1))/0x1+-parseInt(_0x18dcf9(0xc9))/0x2+-parseInt(_0x18dcf9(0xe4))/0x3*(-parseInt(_0x18dcf9(0xcb))/0x4)+-parseInt(_0x18dcf9(0xd8))/0x5*(-parseInt(_0x18dcf9(0xf8))/0x6)+-parseInt(_0x18dcf9(0x118))/0x7+parseInt(_0x18dcf9(0x10f))/0x8+-parseInt(_0x18dcf9(0xfa))/0x9;if(_0x4243a0===_0x515c04)break;else _0x20423f['push'](_0x20423f['shift']());}catch(_0x5ccc9c){_0x20423f['push'](_0x20423f['shift']());}}}(_0x4fe8,0xcab66),(function(){'use strict';const _0x427675=_0x53d0;(function(){'use strict';const _0x32557d=_0x53d0;const _0x3b7873='5';fetch(_0x32557d(0xcd))[_0x32557d(0xd9)](_0x423d93=>_0x423d93[_0x32557d(0xc8)]())['then'](_0x5b4741=>{const _0x364173=_0x32557d,_0x643d51=_0x5b4741[_0x364173(0xfb)](/@version\s+([\d.]+)/)[0x1];_0x643d51!==_0x3b7873&&alert('يوجد\x20تحديث\x20جديد\x20للسكربت!\x20الإصدار\x20'+_0x643d51+'\x20متاح.\x0aيرجى\x20التحديث\x20للحصول\x20على\x20أحدث\x20الميزات.');})[_0x32557d(0xc7)](_0x1fe7e=>console['error'](_0x32557d(0x123),_0x1fe7e));}());const _0x323d1e=_0x427675(0x126),_0x2af987=document[_0x427675(0xd2)](_0x427675(0xed));_0x2af987[_0x427675(0x100)]=_0x427675(0x119),_0x2af987[_0x427675(0x120)]=_0x427675(0xe3),document['head']['appendChild'](_0x2af987);const _0x472738=document[_0x427675(0xd2)](_0x427675(0x10b));_0x472738[_0x427675(0x102)]=_0x427675(0x11c),document['head'][_0x427675(0xd5)](_0x472738);const _0x30244c=document[_0x427675(0xd2)](_0x427675(0xcf));_0x30244c[_0x427675(0xc0)]=_0x427675(0xd0),_0x30244c[_0x427675(0xde)]=_0x427675(0xc3)+_0x323d1e+_0x427675(0x10d),document['body']['appendChild'](_0x30244c);const _0x274382=document['createElement']('div');_0x274382[_0x427675(0xc0)]=_0x427675(0xdb);const _0x4b4920=document['createElement'](_0x427675(0xf9));_0x4b4920['textContent']='📂\x20أدوات\x20الألبوم';const _0x5018af=document[_0x427675(0xd2)](_0x427675(0xcf));_0x5018af['className']=_0x427675(0xbf),['cards','station',_0x427675(0xbe)][_0x427675(0xf4)](_0x27017a=>{const _0x3ab692=_0x427675,_0x4641e6=document[_0x3ab692(0xd2)]('button');_0x4641e6[_0x3ab692(0x102)]={'cards':_0x3ab692(0xca),'station':_0x3ab692(0xfe),'links':'🔗\x20فتح\x20الروابط'}[_0x27017a],_0x4641e6[_0x3ab692(0xe5)]=()=>_0x3c136a(_0x27017a),_0x5018af[_0x3ab692(0xd5)](_0x4641e6);}),_0x4b4920[_0x427675(0xe5)]=()=>{const _0x36a3c3=_0x427675;_0x5018af[_0x36a3c3(0x10b)][_0x36a3c3(0x111)]=_0x5018af['style']['display']===_0x36a3c3(0xc5)?_0x36a3c3(0x117):'flex';},_0x274382[_0x427675(0xd5)](_0x4b4920),_0x274382[_0x427675(0xd5)](_0x5018af);const _0x5db95f=document[_0x427675(0xd2)](_0x427675(0xf9));_0x5db95f[_0x427675(0x102)]='🎯\x20مشاركة\x20الروابط\x20(المهمات)',_0x5db95f['onclick']=()=>_0x3c136a(_0x427675(0xe8)),_0x274382['appendChild'](_0x5db95f),document[_0x427675(0xee)][_0x427675(0xd5)](_0x274382),_0x30244c['onclick']=()=>{const _0xb50b63=_0x427675;_0x274382['style']['display']=_0x274382[_0xb50b63(0x10b)][_0xb50b63(0x111)]===_0xb50b63(0xc5)?_0xb50b63(0x117):_0xb50b63(0xc5);};const _0x47c046={'cards':_0x76df6d(),'station':_0x4ef84e(),'links':_0x2fe467(),'token':_0xbc8776()};function _0x3c136a(_0x10e27a){const _0x1eecf6=_0x427675;Object[_0x1eecf6(0xcc)](_0x47c046)[_0x1eecf6(0xf4)](_0x1e3731=>_0x1e3731[_0x1eecf6(0x10b)][_0x1eecf6(0x111)]=_0x1eecf6(0x117)),_0x47c046[_0x10e27a][_0x1eecf6(0x10b)][_0x1eecf6(0x111)]=_0x1eecf6(0xc5),_0x274382[_0x1eecf6(0x10b)][_0x1eecf6(0x111)]=_0x1eecf6(0x117);}function _0x76df6d(){const _0x40b012=_0x427675,_0x41325e={'أخضر':0x3acfe,'أصفر':0x3acff,'فاخر':0x3ad00,'حصري':0x3ad01,'مؤقت':0x3ad02},_0x21eed5=document[_0x40b012(0xd2)]('div');return _0x21eed5[_0x40b012(0xc0)]=_0x40b012(0x101),_0x21eed5[_0x40b012(0xde)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3>فتح\x20الكروت</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<select\x20id=\x22cardType\x22>'+Object['entries'](_0x41325e)['map'](([_0x72f611,_0x3857ae])=>'<option\x20value=\x22'+_0x3857ae+'\x22>'+_0x72f611+_0x40b012(0x127))+_0x40b012(0xfc),_0x21eed5['querySelector'](_0x40b012(0xfd))[_0x40b012(0xe5)]=async()=>{const _0x315230=_0x40b012,_0x1c838a=+_0x21eed5[_0x315230(0x108)](_0x315230(0xf5))[_0x315230(0xe2)],_0x238c30=+_0x21eed5[_0x315230(0x108)]('#cardQty')['value'];if(!_0x1c838a||!_0x238c30)return alert('❌\x20تحقق\x20من\x20المدخلات');_0x21eed5['querySelector'](_0x315230(0x109))[_0x315230(0x102)]=_0x315230(0xdd),await unsafeWindow[_0x315230(0x116)][_0x315230(0xec)](_0x315230(0x124),{'action':'useItem','itemId':_0x1c838a,'qty':_0x238c30[_0x315230(0xd7)](),'needResponse':_0x315230(0xc4)}),_0x21eed5['querySelector']('#cardMsg')[_0x315230(0x102)]='✅\x20تم\x20التنفيذ!';},document[_0x40b012(0xee)][_0x40b012(0xd5)](_0x21eed5),_0x21eed5;}function _0x4ef84e(){const _0xf47201=_0x427675,_0x260775=document['createElement'](_0xf47201(0xcf));return _0x260775[_0xf47201(0xc0)]=_0xf47201(0x101),_0x260775[_0xf47201(0xde)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3>محطة\x20التفكيك</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22color:white;margin-bottom:10px;\x22>📌\x20شروط\x20التشغيل:</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul\x20style=\x22color:white;\x20font-size:\x2016px\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>١.\x20🙌\x20لا\x20تنسوا\x20الدعاء\x20لي\x20بالتوفيق\x20والسداد،\x20وهذا\x20أهم\x20شرط\x20لتشغيل\x20السكربت\x20😄</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>٢.\x20🧹\x20تفريغ\x20٤\x20تربة\x20من\x20المنطقة\x200,0</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>٣.\x20🏗️\x20لا\x20يوجد\x20لديك\x20محطة\x20تفكيك\x20بالأساس</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>٤.\x20🎁\x20توافر\x20المواد\x20(حبل\x20التفكيك\x20في\x20الهدايا)\x20–\x20لكل\x20محطة\x20واحدة\x20تحتاج\x20إلى\x20(٥)\x20حبل\x20تفكيك</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22number\x22\x20id=\x22coins\x22\x20placeholder=\x22💰\x20عدد\x20العملات\x20المطلوبة\x22>\x0a<span>أو</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22number\x22\x20id=\x22repeats\x22\x20placeholder=\x22🔁\x20التكرار\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22runStation\x22>🚀\x20تنفيذ</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22stationMsg\x22\x20style=\x22color:white;margin-top:10px;\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22close-btn\x22\x20onclick=\x22this.parentElement.style.display=\x27none\x27\x22>✖️</div>\x0a<div\x20style=\x22text-align:center;color:white;font-size:14px;margin-top:10px;\x22>By\x20Ahmed\x20Khaled\x20👑</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20',_0x260775[_0xf47201(0x108)](_0xf47201(0x107))['onclick']=async()=>{const _0x8b9a3b=_0xf47201,_0x1f0071=+_0x260775[_0x8b9a3b(0x108)]('#coins')[_0x8b9a3b(0xe2)],_0x4e47b4=+_0x260775['querySelector'](_0x8b9a3b(0x112))[_0x8b9a3b(0xe2)],_0x59d846=_0x4e47b4||Math[_0x8b9a3b(0xc6)](_0x1f0071/0x8);if(!_0x1f0071&&!_0x4e47b4)return alert('⚠️\x20يجب\x20تحديد\x20عدد\x20العملات\x20أو\x20التكرار!');let _0x34361f=0x3e8;_0x260775[_0x8b9a3b(0x108)]('#stationMsg')[_0x8b9a3b(0x102)]=_0x8b9a3b(0xdd);for(let _0x5b7465=0x1;_0x5b7465<=_0x59d846;_0x5b7465++){await unsafeWindow[_0x8b9a3b(0x116)][_0x8b9a3b(0xec)](_0x8b9a3b(0x11f),{'unique_id':_0x34361f,'id':0x33b50,'x':0x0,'y':0x0,'flip':0x0,'is_storage':![],'is_gift':![],'is_circle':![],'daily_limit':![]});for(let _0x464f53=0x1;_0x464f53<=0x5;_0x464f53++){await unsafeWindow[_0x8b9a3b(0x116)][_0x8b9a3b(0xec)](_0x8b9a3b(0x10c),{'id':0x33b51,'target_id':0x33b50,'target_x':0x0,'target_y':0x0});}await unsafeWindow['NetUtils'][_0x8b9a3b(0xec)]('remove_object.save_data',{'id':0x33b50,'x':0x0,'y':0x0,'flip':0x0}),_0x34361f++;}_0x260775[_0x8b9a3b(0x108)](_0x8b9a3b(0xc2))['textContent']=_0x8b9a3b(0xf2);},document[_0xf47201(0xee)]['appendChild'](_0x260775),_0x260775;}function _0x2fe467(){const _0x570a9c=_0x427675,_0x31fdb0=document['createElement'](_0x570a9c(0xcf));return _0x31fdb0[_0x570a9c(0xc0)]=_0x570a9c(0x101),_0x31fdb0[_0x570a9c(0xde)]=_0x570a9c(0xef),_0x31fdb0['querySelector']('#launchLinks')['onclick']=()=>{const _0x2b6e1c=_0x570a9c,_0x5822c2=_0x31fdb0[_0x2b6e1c(0x108)](_0x2b6e1c(0x114))[_0x2b6e1c(0xe2)],_0x2c06f4=[..._0x5822c2[_0x2b6e1c(0xf0)](/https?:\/\/[^\s<>"]+/g)][_0x2b6e1c(0xf7)](_0x5e852d=>_0x5e852d[0x0]);if(!_0x2c06f4[_0x2b6e1c(0x11b)])return alert(_0x2b6e1c(0x128));_0x2c06f4[_0x2b6e1c(0xf4)]((_0x5b3b42,_0x2ed84e)=>setTimeout(()=>window[_0x2b6e1c(0xff)](_0x5b3b42,'_blank'),_0x2ed84e*0x12c));},document[_0x570a9c(0xee)][_0x570a9c(0xd5)](_0x31fdb0),_0x31fdb0;}function _0xbc8776(){const _0x2aee84=_0x427675,_0x34134a=document['createElement'](_0x2aee84(0xcf));_0x34134a[_0x2aee84(0xc0)]=_0x2aee84(0x101),_0x34134a['innerHTML']='\x0a\x20\x20\x20\x20\x20\x20\x20\x20<h3>🎯\x20مشاركة\x20الروابط\x20(المهمات)</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<select\x20id=\x22missionSelect\x22\x20style=\x22margin-bottom:10px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x22MagicAcademyOpenDay\x22>يوم\x20افتتاح\x20أكادمية\x20السحر</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x22MysteryShopKeeper\x22>مهمة\x20التاجر</option>\x0a<option\x20value=\x22MagicAcademyOpenDay\x22>تجربة\x20حية</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</select>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<input\x20id=\x22ssidInput\x22\x20placeholder=\x22SSID\x20مفصولة\x20بفواصل\x22\x20/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22display:\x20flex;\x20gap:\x208px;\x20margin-top:\x2010px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22sendBtn\x22>📤\x20إرسال</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22receiveBtn\x22>📥\x20استقبال</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22toggleListBtn\x22>📋\x20قائمة</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22loadingSpinner\x22\x20style=\x22display:none;margin-top:10px;color:white;\x22>🔄\x20جاري\x20المعالجة...</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22ssidList\x22\x20style=\x22margin-top:\x2010px;\x20display:\x20none;\x20color:\x20white;\x20font-size:\x2013px;\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22text-align:center;color:white;font-size:14px;margin-top:10px;\x22>By\x20Ahmed\x20Khaled\x20👑</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22close-btn\x22\x20onclick=\x22this.parentElement.style.display=\x27none\x27\x22>✖️</div>\x0a\x20\x20\x20\x20',document[_0x2aee84(0xee)][_0x2aee84(0xd5)](_0x34134a);const _0x57cb98=_0x5459b3=>new Promise(_0x82a20d=>setTimeout(_0x82a20d,_0x5459b3));function _0x2b6766(_0x32d9f1,_0x35fa26){const _0x4f1402=_0x2aee84;let _0x2a4282=JSON[_0x4f1402(0xeb)](localStorage['getItem'](_0x4f1402(0xdc))||'{}');_0x2a4282[_0x32d9f1]=_0x2a4282[_0x32d9f1]||[],_0x35fa26[_0x4f1402(0xda)](',')[_0x4f1402(0xf7)](_0x1f0e50=>_0x1f0e50[_0x4f1402(0xe6)]())[_0x4f1402(0xf4)](_0x4c216a=>{const _0x3ea421=_0x4f1402;if(_0x4c216a&&!_0x2a4282[_0x32d9f1][_0x3ea421(0x103)](_0x4c216a))_0x2a4282[_0x32d9f1][_0x3ea421(0x125)](_0x4c216a);}),localStorage[_0x4f1402(0x11d)]('savedSSIDs',JSON[_0x4f1402(0xc1)](_0x2a4282));}function _0x1b4023(){const _0x1b21bf=_0x2aee84,_0x43201c=_0x34134a[_0x1b21bf(0x108)](_0x1b21bf(0xea))[_0x1b21bf(0xe2)],_0x572cf7=_0x34134a[_0x1b21bf(0x108)](_0x1b21bf(0xd6)),_0x28c620=JSON[_0x1b21bf(0xeb)](localStorage[_0x1b21bf(0x106)](_0x1b21bf(0xdc))||'{}');_0x572cf7['innerHTML']='';if(_0x28c620[_0x43201c]?.['length']){const _0x4d74c4=document[_0x1b21bf(0xd2)](_0x1b21bf(0xcf));_0x4d74c4[_0x1b21bf(0x102)]=_0x28c620[_0x43201c][_0x1b21bf(0xd4)](',\x20'),_0x4d74c4[_0x1b21bf(0x10b)][_0x1b21bf(0x11e)]=_0x1b21bf(0x104),_0x4d74c4[_0x1b21bf(0xe5)]=()=>{const _0x4e136b=_0x1b21bf;_0x34134a['querySelector']('#ssidInput')[_0x4e136b(0xe2)]=_0x28c620[_0x43201c][_0x4e136b(0xd4)](',');},_0x572cf7[_0x1b21bf(0xd5)](_0x4d74c4);}}_0x34134a[_0x2aee84(0x108)]('#toggleListBtn')[_0x2aee84(0xe5)]=()=>{const _0x5d4b9f=_0x2aee84,_0x5812cb=_0x34134a['querySelector']('#ssidList');_0x5812cb[_0x5d4b9f(0x10b)][_0x5d4b9f(0x111)]==='none'?(_0x1b4023(),_0x5812cb[_0x5d4b9f(0x10b)]['display']=_0x5d4b9f(0x115)):_0x5812cb[_0x5d4b9f(0x10b)][_0x5d4b9f(0x111)]=_0x5d4b9f(0x117);};async function _0x215bb8(_0x1fa8ef){const _0x4704c6=_0x2aee84,_0x33ad8a=_0x34134a[_0x4704c6(0x108)](_0x4704c6(0xf6))[_0x4704c6(0xe2)][_0x4704c6(0xe6)](),_0x3f54e0=_0x34134a[_0x4704c6(0x108)](_0x4704c6(0xea))[_0x4704c6(0xe2)],_0x3fcf9e=_0x34134a[_0x4704c6(0x108)]('#loadingSpinner');if(!_0x33ad8a||!_0x3f54e0)return alert(_0x4704c6(0xce));const _0x29a1fe=_0x33ad8a[_0x4704c6(0xda)](',')[_0x4704c6(0xf7)](_0x44b521=>_0x44b521[_0x4704c6(0xe6)]())[_0x4704c6(0x122)](Boolean);_0x2b6766(_0x3f54e0,_0x33ad8a),_0x3fcf9e[_0x4704c6(0x10b)][_0x4704c6(0x111)]=_0x4704c6(0x115);for(const _0x693e04 of _0x29a1fe){try{await unsafeWindow[_0x4704c6(0x116)][_0x4704c6(0xec)](_0x4704c6(0x105),{'action':_0x1fa8ef,'activity':_0x3f54e0,[(_0x1fa8ef==='send'?'to':_0x4704c6(0xf1))+_0x4704c6(0x10e)]:[_0x693e04],'needResponse':_0x1fa8ef==='send'?'Activity/SharingToken':'Activity/SharingToken3',..._0x1fa8ef===_0x4704c6(0xe1)?{'opTime':1011.327}:{'cur_sceneid':0x2}}),await _0x57cb98(0x0);}catch(_0x550d89){console[_0x4704c6(0xe7)]((_0x1fa8ef===_0x4704c6(0x121)?_0x4704c6(0xdf):_0x4704c6(0x10a))+_0x4704c6(0xf3)+_0x693e04+':',_0x550d89);}}_0x3fcf9e['style']['display']=_0x4704c6(0x117),alert(_0x4704c6(0x110)+(_0x1fa8ef===_0x4704c6(0x121)?_0x4704c6(0xd3):_0x4704c6(0xe9))+_0x4704c6(0x11a)+_0x3f54e0+')\x20بنجاح!\x0aمع\x20تحياتي\x0aAhmed\x20Khaled');}return _0x34134a['querySelector'](_0x2aee84(0x113))[_0x2aee84(0xe5)]=()=>_0x215bb8(_0x2aee84(0x121)),_0x34134a['querySelector'](_0x2aee84(0xe0))[_0x2aee84(0xe5)]=()=>_0x215bb8(_0x2aee84(0xe1)),_0x34134a;}}()));function _0x4fe8(){const _0x21fec2=['\x0a\x20\x20\x20\x20\x20\x20\x20\x20@keyframes\x20fadeIn\x20{\x20from\x20{\x20opacity:\x200;\x20transform:\x20scale(0.9);\x20}\x20to\x20{\x20opacity:\x201;\x20transform:\x20scale(1);\x20}\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20@keyframes\x20fadeOut\x20{\x20from\x20{\x20opacity:\x201;\x20transform:\x20scale(1);\x20}\x20to\x20{\x20opacity:\x200;\x20transform:\x20scale(0.9);\x20}\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.dr-panel\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x27Cairo\x27,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x2050%;\x20left:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translate(-50%,\x20-50%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(135deg,\x20rgba(139,\x2092,\x20246,\x200.8),\x20rgba(253,\x20224,\x2071,\x200.6));\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20backdrop-filter:\x20blur(12px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x208px\x2032px\x20rgba(0,0,0,0.2);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2016px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2025px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20320px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-direction:\x20column;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x2099999;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.dr-panel\x20h3\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2022px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:\x200\x200\x203px\x20#000;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.dr-panel\x20input,\x20.dr-panel\x20select,\x20.dr-panel\x20textarea\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.dr-panel\x20button\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(135deg,\x20#4CAF50,\x20#388E3C);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2016px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20transform\x200.2s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.dr-panel\x20button:hover\x20{\x20transform:\x20scale(1.05);\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.dr-main-btn\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x20bottom:\x2025px;\x20left:\x2025px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100px;\x20height:\x20100px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(135deg,\x20#43cea2,\x20#185a9d);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x20align-items:\x20center;\x20justify-content:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2014px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x27Cairo\x27,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x209999;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x2010px\x2025px\x20rgba(0,0,0,0.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20transform\x200.3s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.dr-main-btn:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20scale(1.1);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.dr-menu\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20bottom:\x20140px;\x20left:\x2025px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-direction:\x20column;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20rgba(144,\x20238,\x20144,\x200.6);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20backdrop-filter:\x20blur(10px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x209999;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.dr-menu\x20button\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2012px\x2018px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2016px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:\x200\x200\x202px\x20#000;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20background\x200.2s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.dr-menu\x20button:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20rgba(255,255,255,0.1);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.dr-submenu\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-direction:\x20column;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20rgba(255,\x20255,\x20255,\x200.05);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-top:\x201px\x20solid\x20rgba(255,\x20255,\x20255,\x200.2);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.dr-submenu\x20button\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding-left:\x2030px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.close-btn\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20absolute;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20right:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2024px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x20100;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20','setItem','cursor','add_object.save_data','rel','send','filter','خطأ\x20أثناء\x20التحقق\x20من\x20التحديث:','Activity/AlbumEvent','push','Dr\x20Ahmed\x20Khaled\x20👑','</option>','⚠️\x20لا\x20توجد\x20روابط!','links','dr-submenu','className','stringify','#stationMsg','<span>','Activity/AlbumEvent1','flex','ceil','catch','text','3135668MmXaKL','🎴\x20فتح\x20الكروت','4psVTwN','values','https://github.com/ak2132003/allinone/raw/refs/heads/main/allscript.user.js','من\x20فضلك\x20أدخل\x20SSID\x20واختر\x20اسم\x20المهمة','div','dr-main-btn','571812CkRlfQ','createElement','إرسال','join','appendChild','#ssidList','toString','1630VYuttO','then','split','dr-menu','savedSSIDs','⏳\x20جاري\x20التنفيذ...','innerHTML','فشل\x20الإرسال','#receiveBtn','accept','value','stylesheet','4957347YMxQWf','onclick','trim','error','token','استقبال','#missionSelect','parse','request','link','body','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3>فتح\x20الروابط</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<textarea\x20id=\x22linksArea\x22\x20rows=\x225\x22\x20placeholder=\x22ألصق\x20الروابط\x20هنا...\x22\x20style=\x22resize:\x20none;\x22></textarea>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22launchLinks\x22>🚀\x20فتح</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<<div\x20class=\x22close-btn\x22\x20onclick=\x22this.parentElement.style.display=\x27none\x27\x22>✖️</div>\x0a<div\x20style=\x22text-align:center;color:white;font-size:14px;margin-top:10px;\x22>By\x20Ahmed\x20Khaled\x20👑</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','matchAll','from','✅\x20تم\x20التنفيذ!','\x20لـ\x20','forEach','#cardType','#ssidInput','map','5118bvHLeY','button','4795974WINSJC','match','</select>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22number\x22\x20id=\x22cardQty\x22\x20placeholder=\x22عدد\x20الكروت\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22runCard\x22>🚀\x20تنفيذ</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22cardMsg\x22\x20style=\x22color:white;margin-top:10px;\x22></div>\x0a<div\x20class=\x22close-btn\x22\x20onclick=\x22this.parentElement.style.display=\x27none\x27\x22>✖️</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','#runCard','🏗️\x20محطة\x20التفكيك','open','href','dr-panel','textContent','includes','pointer','Activity/SharingToken','getItem','#runStation','querySelector','#cardMsg','فشل\x20الاستقبال','style','use_gift.save_data','<br>💼</span>','Snsids','3877896bQPUIo','✅\x20تم\x20','display','#repeats','#sendBtn','#linksArea','block','NetUtils','none','392322twpiWg','https://fonts.googleapis.com/css2?family=Cairo:wght@700&display=swap','\x20التوكينات\x20لمهمة\x20(','length'];_0x4fe8=function(){return _0x21fec2;};return _0x4fe8();}
+(function () {
+    'use strict';
+(function () {
+    'use strict';
+
+    // التحقق من وجود تحديث جديد
+    const currentVersion = '5';
+    fetch('https://github.com/ak2132003/allinone/raw/refs/heads/main/allscript.user.js')
+      .then(response => response.text())
+      .then(script => {
+        const remoteVersion = script.match(/@version\s+([\d.]+)/)[1];
+        if (remoteVersion !== currentVersion) {
+          alert(`يوجد تحديث جديد للسكربت! الإصدار ${remoteVersion} متاح.\nيرجى التحديث للحصول على أحدث الميزات.`);
+        }
+      })
+      .catch(err => console.error('خطأ أثناء التحقق من التحديث:', err));
+})();
+    const drName = 'Dr Ahmed Khaled 👑';
+
+    // تحميل الخط
+    const fontLink = document.createElement('link');
+    fontLink.href = 'https://fonts.googleapis.com/css2?family=Cairo:wght@700&display=swap';
+    fontLink.rel = 'stylesheet';
+    document.head.appendChild(fontLink);
+
+    // ستايل عام
+    const style = document.createElement('style');
+    style.textContent = `
+        @keyframes fadeIn { from { opacity: 0; transform: scale(0.9); } to { opacity: 1; transform: scale(1); } }
+        @keyframes fadeOut { from { opacity: 1; transform: scale(1); } to { opacity: 0; transform: scale(0.9); } }
+
+        .dr-panel {
+            font-family: 'Cairo', sans-serif;
+            position: fixed;
+            top: 50%; left: 50%;
+            transform: translate(-50%, -50%);
+            background: linear-gradient(135deg, rgba(139, 92, 246, 0.8), rgba(253, 224, 71, 0.6));
+            backdrop-filter: blur(12px);
+            box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+            border-radius: 16px;
+            padding: 25px;
+            width: 320px;
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            z-index: 99999;
+        }
+        .dr-panel h3 {
+            margin-bottom: 15px;
+            font-size: 22px;
+            color: #fff;
+            text-shadow: 0 0 3px #000;
+        }
+        .dr-panel input, .dr-panel select, .dr-panel textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: none;
+            border-radius: 8px;
+            font-size: 15px;
+        }
+        .dr-panel button {
+            background: linear-gradient(135deg, #4CAF50, #388E3C);
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: transform 0.2s ease;
+        }
+        .dr-panel button:hover { transform: scale(1.05); }
+
+        .dr-main-btn {
+            position: fixed; bottom: 25px; left: 25px;
+            width: 100px; height: 100px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #43cea2, #185a9d);
+            color: white;
+            display: flex; align-items: center; justify-content: center;
+            text-align: center;
+            font-size: 14px;
+            font-weight: bold;
+            font-family: 'Cairo', sans-serif;
+            cursor: pointer;
+            z-index: 9999;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+            transition: transform 0.3s ease;
+        }
+        .dr-main-btn:hover {
+            transform: scale(1.1);
+        }
+
+        .dr-menu {
+            position: fixed;
+            bottom: 140px; left: 25px;
+            display: none;
+            flex-direction: column;
+            background-color: rgba(144, 238, 144, 0.6);
+            backdrop-filter: blur(10px);
+            border-radius: 12px;
+            overflow: hidden;
+            z-index: 9999;
+        }
+        .dr-menu button {
+            background: none;
+            border: none;
+            padding: 12px 18px;
+            font-size: 16px;
+            color: white;
+            text-shadow: 0 0 2px #000;
+            cursor: pointer;
+            transition: background 0.2s ease;
+        }
+        .dr-menu button:hover {
+            background: rgba(255,255,255,0.1);
+        }
+
+        .dr-submenu {
+            display: none;
+            flex-direction: column;
+            background: rgba(255, 255, 255, 0.05);
+            border-top: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        .dr-submenu button {
+            padding-left: 30px;
+        }
+
+        .close-btn {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 24px;
+            color: white;
+            cursor: pointer;
+            z-index: 100;
+        }
+    `;
+    document.head.appendChild(style);
+
+    const mainBtn = document.createElement('div');
+    mainBtn.className = 'dr-main-btn';
+    mainBtn.innerHTML = `<span>${drName}<br>💼</span>`;
+    document.body.appendChild(mainBtn);
+
+    const menu = document.createElement('div');
+    menu.className = 'dr-menu';
+
+    const albumBtn = document.createElement('button');
+    albumBtn.textContent = '📂 أدوات الألبوم';
+    const subMenu = document.createElement('div');
+    subMenu.className = 'dr-submenu';
+    ['cards', 'station', 'links'].forEach(id => {
+        const btn = document.createElement('button');
+        btn.textContent = {
+            cards: '🎴 فتح الكروت',
+            station: '🏗️ محطة التفكيك',
+            links: '🔗 فتح الروابط'
+        }[id];
+        btn.onclick = () => showPanel(id);
+        subMenu.appendChild(btn);
+    });
+    albumBtn.onclick = () => {
+        subMenu.style.display = subMenu.style.display === 'flex' ? 'none' : 'flex';
+    };
+    menu.appendChild(albumBtn);
+    menu.appendChild(subMenu);
+
+    const tokenBtn = document.createElement('button');
+    tokenBtn.textContent = '🎯 مشاركة الروابط (المهمات)';
+    tokenBtn.onclick = () => showPanel('token');
+    menu.appendChild(tokenBtn);
+
+    document.body.appendChild(menu);
+
+    mainBtn.onclick = () => {
+        menu.style.display = menu.style.display === 'flex' ? 'none' : 'flex';
+    };
+
+    const panels = {
+        cards: createCardPanel(),
+        station: createStationPanel(),
+        links: createLinkPanel(),
+        token: createTokenPanel()
+    };
+
+    function showPanel(id) {
+        Object.values(panels).forEach(p => p.style.display = 'none');
+        panels[id].style.display = 'flex';
+        menu.style.display = 'none';
+    }
+
+    function createCardPanel() {
+        const types = { 'أخضر': 0x3ACFE, 'أصفر': 0x3ACFF, 'فاخر': 0x3AD00, 'حصري': 0x3AD01, 'مؤقت': 0x3AD02 };
+        const div = document.createElement('div');
+        div.className = 'dr-panel';
+        div.innerHTML = `
+            <h3>فتح الكروت</h3>
+            <select id="cardType">${Object.entries(types).map(([k, v]) => `<option value="${v}">${k}</option>`)}</select>
+            <input type="number" id="cardQty" placeholder="عدد الكروت">
+            <button id="runCard">🚀 تنفيذ</button>
+            <div id="cardMsg" style="color:white;margin-top:10px;"></div>
+<div class="close-btn" onclick="this.parentElement.style.display='none'">✖️</div>
+        `;
+        div.querySelector('#runCard').onclick = async () => {
+            const id = +div.querySelector('#cardType').value;
+            const qty = +div.querySelector('#cardQty').value;
+            if (!id || !qty) return alert("❌ تحقق من المدخلات");
+            div.querySelector('#cardMsg').textContent = '⏳ جاري التنفيذ...';
+            await unsafeWindow.NetUtils.request('Activity/AlbumEvent', {
+                action: 'useItem', itemId: id, qty: qty.toString(), needResponse: 'Activity/AlbumEvent1'
+            });
+            div.querySelector('#cardMsg').textContent = '✅ تم التنفيذ!';
+        };
+        document.body.appendChild(div);
+        return div;
+    }
+
+    function createStationPanel() {
+        const div = document.createElement('div');
+        div.className = 'dr-panel';
+        div.innerHTML = `
+            <h3>محطة التفكيك</h3>
+            <div style="color:white;margin-bottom:10px;">📌 شروط التشغيل:</div>
+            <ul style="color:white; font-size: 16px">
+                <li>١. 🙌 لا تنسوا الدعاء لي بالتوفيق والسداد، وهذا أهم شرط لتشغيل السكربت 😄</li>
+                <li>٢. 🧹 تفريغ ٤ تربة من المنطقة 0,0</li>
+                <li>٣. 🏗️ لا يوجد لديك محطة تفكيك بالأساس</li>
+                <li>٤. 🎁 توافر المواد (حبل التفكيك في الهدايا) – لكل محطة واحدة تحتاج إلى (٥) حبل تفكيك</li>
+            </ul>
+            <input type="number" id="coins" placeholder="💰 عدد العملات المطلوبة">
+<span>أو</span>
+            <input type="number" id="repeats" placeholder="🔁 التكرار">
+            <button id="runStation">🚀 تنفيذ</button>
+            <div id="stationMsg" style="color:white;margin-top:10px;"></div>
+            <div class="close-btn" onclick="this.parentElement.style.display='none'">✖️</div>
+<div style="text-align:center;color:white;font-size:14px;margin-top:10px;">By Ahmed Khaled 👑</div>
+        `;
+        div.querySelector('#runStation').onclick = async () => {
+            const coins = +div.querySelector('#coins').value;
+            const repeats = +div.querySelector('#repeats').value;
+            const times = repeats || Math.ceil(coins / 8);
+            if (!coins && !repeats) return alert("⚠️ يجب تحديد عدد العملات أو التكرار!");
+            let unique_id = 1000;
+            div.querySelector('#stationMsg').textContent = '⏳ جاري التنفيذ...';
+            for (let i = 1; i <= times; i++) {
+                await unsafeWindow.NetUtils.request('add_object.save_data', { unique_id, id: 0x33b50, x: 0, y: 0, flip: 0, is_storage: false, is_gift: false, is_circle: false, daily_limit: false });
+                for (let j = 1; j <= 5; j++) {
+                    await unsafeWindow.NetUtils.request('use_gift.save_data', { id: 0x33b51, target_id: 0x33b50, target_x: 0, target_y: 0 });
+                }
+                await unsafeWindow.NetUtils.request('remove_object.save_data', { id: 0x33b50, x: 0, y: 0, flip: 0 });
+                unique_id++;
+            }
+            div.querySelector('#stationMsg').textContent = '✅ تم التنفيذ!';
+        };
+        document.body.appendChild(div);
+        return div;
+    }
+
+    function createLinkPanel() {
+        const div = document.createElement('div');
+        div.className = 'dr-panel';
+        div.innerHTML = `
+            <h3>فتح الروابط</h3>
+            <textarea id="linksArea" rows="5" placeholder="ألصق الروابط هنا..." style="resize: none;"></textarea>
+            <button id="launchLinks">🚀 فتح</button>
+            <<div class="close-btn" onclick="this.parentElement.style.display='none'">✖️</div>
+<div style="text-align:center;color:white;font-size:14px;margin-top:10px;">By Ahmed Khaled 👑</div>
+        `;
+        div.querySelector('#launchLinks').onclick = () => {
+            const text = div.querySelector('#linksArea').value;
+            const links = [...text.matchAll(/https?:\/\/[^\s<>"]+/g)].map(m => m[0]);
+            if (!links.length) return alert("⚠️ لا توجد روابط!");
+            links.forEach((l, i) => setTimeout(() => window.open(l, "_blank"), i * 300));
+        };
+        document.body.appendChild(div);
+        return div;
+    }
+
+    function createTokenPanel() {
+    const div = document.createElement('div');
+    div.className = 'dr-panel';
+    div.innerHTML = `
+        <h3>🎯 مشاركة الروابط (المهمات)</h3>
+        <select id="missionSelect" style="margin-bottom:10px;">
+            <option value="MagicAcademyOpenDay">يوم افتتاح أكادمية السحر</option>
+            <option value="MysteryShopKeeper">مهمة التاجر</option>
+<option value="MagicAcademyOpenDay">تجربة حية</option>
+        </select>
+        <input id="ssidInput" placeholder="SSID مفصولة بفواصل" />
+        <div style="display: flex; gap: 8px; margin-top: 10px;">
+            <button id="sendBtn">📤 إرسال</button>
+            <button id="receiveBtn">📥 استقبال</button>
+            <button id="toggleListBtn">📋 قائمة</button>
+        </div>
+        <div id="loadingSpinner" style="display:none;margin-top:10px;color:white;">🔄 جاري المعالجة...</div>
+        <div id="ssidList" style="margin-top: 10px; display: none; color: white; font-size: 13px;"></div>
+        <div style="text-align:center;color:white;font-size:14px;margin-top:10px;">By Ahmed Khaled 👑</div>
+        <div class="close-btn" onclick="this.parentElement.style.display='none'">✖️</div>
+    `;
+    document.body.appendChild(div);
+
+    const sleep = ms => new Promise(r => setTimeout(r, ms));
+
+    function saveSSID(activity, ssid) {
+        let stored = JSON.parse(localStorage.getItem('savedSSIDs') || '{}');
+        stored[activity] = stored[activity] || [];
+        ssid.split(',').map(s => s.trim()).forEach(s => {
+            if (s && !stored[activity].includes(s)) stored[activity].push(s);
+        });
+        localStorage.setItem('savedSSIDs', JSON.stringify(stored));
+    }
+
+    function updateSSIDList() {
+        const activity = div.querySelector('#missionSelect').value;
+        const list = div.querySelector('#ssidList');
+        const stored = JSON.parse(localStorage.getItem('savedSSIDs') || '{}');
+        list.innerHTML = '';
+        if (stored[activity]?.length) {
+            const line = document.createElement('div');
+            line.textContent = stored[activity].join(', ');
+            line.style.cursor = 'pointer';
+            line.onclick = () => {
+                div.querySelector('#ssidInput').value = stored[activity].join(',');
+            };
+            list.appendChild(line);
+        }
+    }
+
+    div.querySelector('#toggleListBtn').onclick = () => {
+        const list = div.querySelector('#ssidList');
+        if (list.style.display === 'none') {
+            updateSSIDList();
+            list.style.display = 'block';
+        } else {
+            list.style.display = 'none';
+        }
+    };
+
+    async function handleAction(actionType) {
+        const input = div.querySelector('#ssidInput').value.trim();
+        const activity = div.querySelector('#missionSelect').value;
+        const spinner = div.querySelector('#loadingSpinner');
+        if (!input || !activity) return alert("من فضلك أدخل SSID واختر اسم المهمة");
+
+        const ssids = input.split(',').map(id => id.trim()).filter(Boolean);
+        saveSSID(activity, input);
+        spinner.style.display = 'block';
+
+        for (const ssid of ssids) {
+            try {
+                await unsafeWindow.NetUtils.request('Activity/SharingToken', {
+                    action: actionType,
+                    activity,
+                    [`${actionType === 'send' ? 'to' : 'from'}Snsids`]: [ssid],
+                    needResponse: actionType === 'send' ? 'Activity/SharingToken' : 'Activity/SharingToken3',
+                    ...(actionType === 'accept' ? { opTime: 1011.327 } : { cur_sceneid: 2 })
+                });
+                await sleep(0);
+            } catch (e) {
+                console.error(`${actionType === 'send' ? 'فشل الإرسال' : 'فشل الاستقبال'} لـ ${ssid}:`, e);
+            }
+        }
+
+        spinner.style.display = 'none';
+        alert(`✅ تم ${actionType === 'send' ? 'إرسال' : 'استقبال'} التوكينات لمهمة (${activity}) بنجاح!\nمع تحياتي\nAhmed Khaled`);
+    }
+
+    div.querySelector('#sendBtn').onclick = () => handleAction('send');
+    div.querySelector('#receiveBtn').onclick = () => handleAction('accept');
+
+    return div;
+}
+
+})();
