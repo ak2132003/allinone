@@ -6,8 +6,8 @@
 // @author       Dr Ahmed Khaled 👑
 // @match        *.centurygames.com/*
 // @grant        unsafeWindow
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://github.com/ak2132003/allinone/raw/refs/heads/main/allscript.user.js
+// @downloadURL  https://github.com/ak2132003/allinone/raw/refs/heads/main/allscript.user.js
 // @run-at       document-end
 // ==/UserScript==
 
