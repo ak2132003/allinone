@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Dr Ahmed Khaled 👑 | سكربت موحد عصري
 // @namespace    https://facebook.com/profile.php?id=100018163182596
-// @version      3
+// @version      4
 // @description  واجهة متطورة لفتح الكروت، محطة التفكيك، فتح الروابط 💼 بتصميم ملكي وأنيميشن 👑
 // @author       Dr Ahmed Khaled 👑
 // @match        *.centurygames.com/*
@@ -299,6 +299,7 @@
             <option value="MagicAcademyOpenDay">يوم افتتاح أكادمية السحر</option>
             <option value="MysteryShopKeeper">مهمة التاجر</option>
 <option value="MagicAcademyOpenDay">يوم افتتاح أكادمية السحر</option>
+<option value="MysteryShopKeeper">مهمة التاجر</option>
         </select>
         <input id="ssidInput" placeholder="SSID مفصولة بفواصل" />
         <div style="display: flex; gap: 8px; margin-top: 10px;">
