@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Dr Ahmed Khaled 👑 | سكربت موحد عصري
 // @namespace    https://facebook.com/profile.php?id=100018163182596
-// @version      2.0
+// @version      2.1
 // @description  واجهة متطورة لفتح الكروت، محطة التفكيك، فتح الروابط 💼 بتصميم ملكي وأنيميشن 👑
 // @author       Dr Ahmed Khaled 👑
 // @match        *.centurygames.com/*
