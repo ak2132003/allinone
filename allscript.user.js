@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Dr Ahmed Khaled 👑 | سكربت موحد عصري
 // @namespace    https://facebook.com/profile.php?id=100018163182596
-// @version      5
+// @version      7
 // @description  واجهة متطورة لفتح الكروت، محطة التفكيك، فتح الروابط 💼 بتصميم ملكي وأنيميشن 👑
 // @author       Dr Ahmed Khaled 👑
 // @match        *.centurygames.com/*
@@ -17,7 +17,7 @@
     'use strict';
 
     // التحقق من وجود تحديث جديد
-    const currentVersion = '5';
+    const currentVersion = '7';
     fetch('https://github.com/ak2132003/allinone/raw/refs/heads/main/allscript.user.js')
       .then(response => response.text())
       .then(script => {
