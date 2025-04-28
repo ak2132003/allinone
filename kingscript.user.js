@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Dr Ahmed Khaled 👑 | سكريبت الملوك
 // @namespace    https://www.facebook.com/Dr.Ahmed.FamilyFarm
-// @version      15.4
+// @version      1
 // @description  واجهة متطورة لفتح الكروت، محطة التفكيك، فتح الروابط وارسال روابط المهمات  👑
 // @author       Dr Ahmed Khaled 👑
 // @match        *.centurygames.com/*
